@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>AutomationBrain</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Tom_Kelly</Authors>
+    <Company>Exgo_Ltd</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
